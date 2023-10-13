@@ -1,7 +1,7 @@
 # LaunchPad
 
 Application to enable faster workflows when working on a windows machine.
-It is developed in C++ with Qt for the graphics.
+It is developed in C++ with Qt for OpenSource for the GUI.
 
 ## Installation:
 Open CMakeLists.txt using qtcreator and compile it. Use windeployqt to deploy the compiled code.<br>
